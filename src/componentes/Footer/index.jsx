@@ -42,7 +42,7 @@ function Footer() {
         <>
             <FooterCustomizado>
                 <img src={logo} alt="Logo-Aluraflix" />
-                <p>Desenvolvido por Renan W. Montanari - Challenge T6 - ONE</p>
+                <p>ALURA - LATAM - T6 ONE ORACLE</p>
             </FooterCustomizado>
         </>
     )
